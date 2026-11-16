@@ -1,0 +1,3 @@
+主頁保留原鼻母音與斷音練習器；手動B載入使用者提供的 poj-flashcards-J-latest(1).zip 裡的 index.html 完整內容。
+原始兩份ZIP均未修改。
+請將ZIP完整解壓後開啟 index.html；音檔存放 audio/ 和 dictionary/audio/。
